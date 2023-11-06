@@ -26,7 +26,7 @@ By default Bitcode is enabled in FCSDKiOS. If you want your app to have bitcode 
  
     1. In your Xcode Project, select File > Swift Packages > Add Package Dependency.
     2. Follow the prompts using the URL for this repository
-    3. Choose which version you would like to checkout(i.e. 3.3.21)
+    3. Choose which version you would like to checkout(i.e. 3.4.6)
 
 You will need to make sure that the binary is linked with the target you want to use the CocoaPod in.
 Navigate to Workspace -> Targets -> Build Phases -> Link Binaries With Libraries and add ACBClientSDK.
